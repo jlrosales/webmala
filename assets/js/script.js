@@ -54,7 +54,7 @@ function Estudiante(sala, rut, nombre, apellidos, celular, email, email_curso, c
 
 function llenarEstudiantes() {
     var lista = [
-        {
+       /* {
             "Sala": "BOTIC-SOFOF-20-14-13-0021",
             "Rut": "18028433-8",
             "Nombre": "Roberto",
@@ -3513,7 +3513,7 @@ function llenarEstudiantes() {
             "Rango Nota Matricula": "Alto"
         },
 
-/*akjaskasjakakjdkasjk */
+akjaskasjakakjdkasjk */
         {
             "Sala": "BOTIC-SOFOF-20-14-13-0001",
             "Rut": "9979784-3",
