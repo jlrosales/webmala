@@ -3495,23 +3495,7 @@ function llenarEstudiantes() {
             "Nota_Matricula": "30",
             "Rango Nota Matricula": "Medio Alto"
         },
-        {
-            "Sala": "BOTIC-SOFOF-20-14-13-0001",
-            "Rut": "22700976-4",
-            "Nombre": "Alberth Lith",
-            "Apellidos": "Vasquez Auqui",
-            "Celular": "942418254",
-            "E_mail_Personal": "a.vasquez.a@live.cl",
-            "E_mail_Curso": "avasquez0976@e-camp.cl",
-            "Contrasena": "Nax58979",
-            "Curso": "Aplicaciones Full Stack Java Trainee",
-            "Jornada": "Diurno",
-            "Comuna": "Santiago",
-            "Nota_Postulacion": "29",
-            "Rango Nota_Postulacion": "Medio Alto",
-            "Nota_Matricula": "38",
-            "Rango Nota Matricula": "Alto"
-        },
+       
 
 /*akjaskasjakakjdkasjk */
         {
