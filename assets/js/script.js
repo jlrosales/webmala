@@ -4,10 +4,10 @@ $(document).ready(function () {
         let pass = $('#password').val()
 
         let listado = llenarEstudiantes()
-        console.log(listado)
+        
         var encontrado = false
         for (let elemento of listado) {
-            console.log(elemento.user == usuario)
+            
             if (!encontrado) {
                 if (elemento.Rut == usuario && elemento.Rut == pass) {
                     generaDatos(elemento)
