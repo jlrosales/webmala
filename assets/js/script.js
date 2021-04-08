@@ -12,7 +12,7 @@ $(document).ready(function () {
                 if (elemento.Rut == usuario && elemento.Rut == pass) {
                     generaDatos(elemento)
                     encontrado = true
-                    break;
+                   /* break;*/
                 }
             }
         }
