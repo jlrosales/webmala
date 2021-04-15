@@ -7599,7 +7599,7 @@ function llenarEstudiantes() {
             "Nota_Matricula": "36",
             "Rango Nota Matricula": "Alto",
             "Estado OTEC": "Confirmado OTEC"
-        }
+        },
         /*15 de abril*/
         {
             "Sala": "BOTIC-SOFOF-20-14-13-0010",
